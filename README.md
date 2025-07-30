@@ -1,4 +1,4 @@
-# Nova - AI Virtual Voice Assistant 🗣️🤖
+# Nova - AI Virtual Voice Assistant 🤖🗣️
 
 Nova is a Python based virtual voice assistant that listens for your voice commands, responds using text-to-speech, opens websites, fetches news, and even uses AI (via Cohere API) to answer general questions — all through natural language interaction.
 
