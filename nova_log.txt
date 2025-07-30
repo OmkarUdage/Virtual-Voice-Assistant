@@ -1,0 +1,2 @@
+# Log file 'nova_log.txt' will store all assistant interactions for debugging or review26-07-2025 17:08:52 - USER: Imported existing <module 'comtypes.gen' from 'D:\\Omkar\\Python\\Major Project\\Nova - a voice-activated virtual assistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+26-07-2025 17:08:52 - USER: Using writeable comtypes cache directory: 'D:\Omkar\Python\Major Project\Nova - a voice-activated virtual assistant\.venv\Lib\site-packages\comtypes\gen'
